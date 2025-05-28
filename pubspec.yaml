@@ -1,0 +1,22 @@
+name: dividend
+description: A simple dividend calculator app.
+
+publish_to: 'none' # Remove this line if you want to publish
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  url_launcher: ^6.1.7   # <-- Add this line here
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.jpg
+    - assets/divi.jpg
