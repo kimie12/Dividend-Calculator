@@ -44,7 +44,7 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 
 ### ℹ️ About Page  
 *Insert screenshot here*  
-`
+`![Image](https://github.com/user-attachments/assets/63045711-9812-4e97-8230-97c1325d0f3a)
 
 ---
 
