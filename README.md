@@ -26,12 +26,12 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 
 ## 🧾 Features
 
-- Accepts Invested Fund, Dividend Rate, and Number of Months (max 12)
-- Calculates and displays Monthly and Total Dividends (2 decimal places)
-- Clean and responsive UI
-- Hamburger Navigation Drawer:
-  - 🏠 **Home**: Input and Result
-  - ℹ️ **About**: Author Info and GitHub Link
+-Input fields for Investment Amount, Annual Dividend Rate, and Investment Duration (up to 12 months)
+-Automatically computes and presents monthly and total dividend returns with precision (rounded to 2 decimal points)
+-Sleek and adaptive user interface, optimized for both phones and tablets
+-Integrated navigation drawer with:
+-🏠 Home – for entering details and viewing calculated results
+-ℹ️ About – displays developer information and a link to the source code
 
 ---
 
