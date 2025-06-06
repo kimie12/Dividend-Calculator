@@ -60,7 +60,7 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 
 ## 🔗 GitHub Repository
 
-> [https://github.com/YourUsername/dividend_calculator](https://github.com/YourUsername/dividend_calculator)
+> [https://github.com/kimie12/Dividend-Calculator)
 
 ---
 
