@@ -54,7 +54,7 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 
 ## 📦 APK Download
 
-> [Download APK](#) *(https://apkfilelinkcreator.cloud/uploads/app-debug.apk)*
+> [Download APK](https://apkfilelinkcreator.cloud/uploads/app-debug.apk) 
 
 ---
 
@@ -66,7 +66,7 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 
 ## 🎥 Presentation Video
 
-> [Watch on YouTube](#) *(Add your video link if available)*
+> [Watch on YouTube](https://youtu.be/ZKiSIYw602E)
 
 ---
 
