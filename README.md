@@ -7,8 +7,8 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 ## 👤 Author Information
 
 - **Name:** Muhammad Hakimie  
-- **Matric No:** *(Insert your matric number here)*  
-- **Course:** Mobile Technology and Development  
+- **Matric No:** 2023136019
+- **Course:** ICT602 Mobile Technology and Development  
 
 ---
 
