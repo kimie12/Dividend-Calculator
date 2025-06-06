@@ -80,5 +80,6 @@ A Flutter mobile application that calculates **monthly and total dividends** fro
 ---
 
 ## © Copyright
-
+© 2025 MUHAMMAD HAKIMIE.
+All rights reserved.
 
